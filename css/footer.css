@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&display=swap");
+footer{
+    text-align: center;
+    color: white;
+    background-color:black;
+    margin-top: 200px;
+    font-size: 16px;
+}
+.logo_box  img{
+    width: 300px;
+    
+}
